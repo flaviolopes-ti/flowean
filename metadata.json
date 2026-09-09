@@ -1,0 +1,6 @@
+{
+  "name": "Flowean - Excelência Operacional & Transformação de Processos",
+  "description": "Website institucional e diagnóstico interativo da Flowean: unindo Lean Six Sigma, Hábitos Atômicos e Transformação de Processos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
